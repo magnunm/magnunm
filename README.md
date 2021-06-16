@@ -1,4 +1,4 @@
-See also https://gitlab.com/magnunm
+See https://gitlab.com/magnunm
 
 📫 magnusnym97 [at] gmail.com
 
