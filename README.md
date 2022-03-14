@@ -1,7 +1,3 @@
-See:
-- https://gitlab.com/users/magnunm/projects
-- https://gitlab.com/users/magnunm/snippets
-
 📫 magnusnym97 [at] gmail.com
 
 <!---
